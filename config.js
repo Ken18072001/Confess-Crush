@@ -1,10 +1,10 @@
 const CONFIG = {
-    titleWeb: "Dung có ngu k",
-    introTitle: 'Dung ngu',
-    introDesc: `Tại sao Dung ngu v`,
-    btnIntro: '^^HiHi^^',
+    titleWeb: "Bạn có ngu k",
+    introTitle: 'đồ ngu',
+    introDesc: `Tại sao bạn ngu v`,
+    btnIntro: '^ngu cc^',
     title: 'Tại sao lại có người ngu v ',
-    desc: 'M có ngu không thoát là ngu ',
+    desc: 'Bạn có ngu không thoát là ngu ',
     btnYes: 'có rất ngu',
     btnNo: 'Không nha :3',
     question: 'Sao lại ngu v e',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Biết ngay mà ngu😘😘',
     messDesc: 'Lo học đi trốn học chơi game à.',
     btnAccept: 'hiuhiu<3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: ' //link mess của các bạn. VD: 
 }
